@@ -1,4 +1,7 @@
+## OUTDATED
+This repository has been moved to https://github.com/WvdL12/BrailleData for future work.
 
+## Sources
 Datasets currently expected to be used was sourced from  
 * [Ilya Ovodov, Angelina Set](https://github.com/IlyaOvodov/AngelinaDataset)  
 * [Kaggle, Braille image set](https://www.kaggle.com/datasets/shanks0465/braille-character-dataset)  
